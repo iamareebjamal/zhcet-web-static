@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "firebase-tools": "^3.10.0"
+    "firebase-tools": "^4.2.1"
   }
 }
